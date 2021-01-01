@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hello humans !
+
+Nikhil here, i love to learn code.
